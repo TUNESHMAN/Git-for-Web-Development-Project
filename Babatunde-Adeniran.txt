@@ -1,4 +1,5 @@
 My name is Babatunde Adeniran.
 I am a student of Lambda school.
 I am a Nigerian. 
-I reside in Lagos
+I reside in Lagos.
+I love coding.
